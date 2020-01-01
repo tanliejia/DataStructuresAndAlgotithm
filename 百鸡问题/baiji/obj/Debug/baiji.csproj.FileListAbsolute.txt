@@ -1,0 +1,27 @@
+C:\Users\11441\Desktop\baiji\baiji\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\baiji\baiji\baiji\bin\Debug\baiji.exe
+C:\Users\11441\Desktop\baiji\baiji\baiji\bin\Debug\baiji.pdb
+C:\Users\11441\Desktop\baiji\baiji\baiji\obj\Debug\baiji.csprojResolveAssemblyReference.cache
+C:\Users\11441\Desktop\baiji\baiji\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\baiji\baiji\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\新建文件夹 (2)\百鸡问题\baiji\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\新建文件夹 (2)\百鸡问题\baiji\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\新建文件夹 (2)\百鸡问题\baiji\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\baiji\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\baiji\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\baiji\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\本地\百鸡问题\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\本地\百鸡问题\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\本地\百鸡问题\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\本地\DataSturesAndAlgorithm\百鸡问题\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\本地\DataSturesAndAlgorithm\百鸡问题\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\本地\DataSturesAndAlgorithm\百鸡问题\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\本地仓\百鸡问题\baiji\obj\Debug\baiji.pdb
+C:\Users\11441\Desktop\百鸡问题\baiji\bin\Debug\baiji.exe.config
+C:\Users\11441\Desktop\百鸡问题\baiji\obj\Debug\baiji.exe
+C:\Users\11441\Desktop\百鸡问题\baiji\obj\Debug\baiji.pdb
