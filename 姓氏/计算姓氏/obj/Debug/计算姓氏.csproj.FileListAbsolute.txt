@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\bin\Debug\计算姓氏.exe.config
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\bin\Debug\计算姓氏.exe
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\bin\Debug\计算姓氏.pdb
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\obj\Debug\计算姓氏.exe
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\obj\Debug\计算姓氏.pdb
+C:\Users\ASUS\Desktop\姓氏\计算姓氏\计算姓氏\obj\Debug\计算姓氏.csprojResolveAssemblyReference.cache
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\bin\Debug\计算姓氏.exe.config
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\obj\Debug\计算姓氏.exe
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\obj\Debug\计算姓氏.pdb
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\bin\Debug\计算姓氏.exe
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\bin\Debug\计算姓氏.pdb
+D:\QQ\QQwend\1144185423\FileRecv\计算姓氏\计算姓氏\obj\Debug\计算姓氏.csprojResolveAssemblyReference.cache
